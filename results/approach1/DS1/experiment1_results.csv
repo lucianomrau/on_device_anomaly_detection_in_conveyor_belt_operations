@@ -1,0 +1,7 @@
+state_classifier,detection mean,detection std,Abnormal mean F1-score,Abnormal std F1-score,Normal mean F1-score,Normal std F1-score,Overall mean F1-score,Overall std F1-score
+RF,94.2,0.13,66.9,0.83,96.24,0.26,90.82,0.33
+MLP,94.69,0.48,68.26,2.26,96.14,0.21,91.31,0.53
+ET,95.04,0.32,71.13,1.16,97.1,0.14,92.37,0.25
+XGB,94.41,,65.5,,95.85,,90.13,
+DT,92.46,3.73,55.44,5.56,91.39,3.86,83.88,4.86
+NB,89.33,,44.44,,94.02,,84.08,
