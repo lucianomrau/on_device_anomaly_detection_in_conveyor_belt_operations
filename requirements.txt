@@ -1,0 +1,12 @@
+dcase_util==0.2.20
+emlearn==0.21.0
+imbalanced_learn==0.10.1
+matplotlib==3.7.0
+numpy==1.23.0
+pandas==2.0.0
+pyserial==3.5
+scikit_learn==1.2.2
+scipy==1.16.0
+sed_eval==0.2.1
+tensorflow==2.13.0
+xgboost==1.7.5
